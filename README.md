@@ -14,12 +14,14 @@ The manuscript has been submitted to IEEE Transactions on Geoscience and Remote 
 </center>
 
 
+
+
+<center>
+<img src="Figure/r2.png" width=80%>
+</center>
+
+
 ---
-
-
-
-
-
 
 **References** 
 
