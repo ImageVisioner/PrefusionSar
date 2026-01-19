@@ -2,7 +2,7 @@
 
 We propose a multi-stage SAR and optical image fusion method and experimentally demonstrate the robustness of our method.
 
-The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. All codes will be released after the manuscript is accepted.
+The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. All codes will be released after the manuscript is accepted.v  
 
 
 
