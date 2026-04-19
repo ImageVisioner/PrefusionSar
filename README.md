@@ -25,8 +25,3 @@ The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied
 
 **References** 
 
-
-
-If our work is useful to you please cite us.  
-Coming soon.....
-
