@@ -1,6 +1,6 @@
 **Note:**   
 
-We propose a multi-stage SAR and optical image fusion method and experimentally demonstrate the robustness of our method.
+We propose a   SAR and optical image fusion method and experimentally demonstrate the robustness of our method.
 
 The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.      
 
