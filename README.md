@@ -1,4 +1,4 @@
-**New**  
+**New：**  
 2026.06.21  Our work has been accepted by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.     
 
 **Note:**   
@@ -7,6 +7,9 @@
 
 The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.    
 title: *Progressive Multistage Fusion of SAR and Optical Image Method : From Feature-Level Preservation to Pixel-Wise Refinement*    
+
+**Abstract:**    
+The fusion of Synthetic Aperture Radar (SAR) and optical images is crucial for comprehensive earth observation; however, balancing the preservation of global structural features with the refinement of local textures remains a significant challenge for traditional-based and learning-based models. To address this, we propose a progressive multistage fusion framework that transitions from image-level feature protection to pixel-wise detail refinement. The framework first employs a prefusion stage constrained by dual energy functionals to suppress SAR speckle noise while preserving core contrast. Subsequently, a semi-sparse prior decomposition and a Gaussian pyramid are utilized to decouple features into base and detail layers. Finally, an adaptive fusion strategy driven by local information entropy is designed to dynamically harmonize the complementary information between modalities. Experimental results show that our method is competitive in both quantitative and qualitative evaluation. The proposed framework offers significant practical value for urban monitoring and disaster assessment, providing a robust data foundation for reliable decision-making in complex environments. 
 
 
 
