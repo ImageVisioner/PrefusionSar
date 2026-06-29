@@ -5,7 +5,8 @@
 
 2025.06.18  We propose a   SAR and optical image fusion method and experimentally demonstrate the robustness of our method.
 
-The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.      
+The manuscript has been submitted to *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.    
+title: *Progressive Multistage Fusion of SAR and Optical Image Method : From Feature-Level Preservation to Pixel-Wise Refinement*    
 
 
 
