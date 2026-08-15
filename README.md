@@ -33,14 +33,14 @@ The fusion of Synthetic Aperture Radar (SAR) and optical images is crucial for c
 **References** 
 
 ``` 
+
 @ARTICLE{11577164,
   author={Liu, Chenhua and Li, Hao and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={Progressive Multistage Fusion of SAR and Optical Image Method : From Feature-Level Preservation to Pixel-Wise Refinement}, 
+  title={Progressive Multistage Fusion of SAR and Optical Image Method: From Feature-Level Preservation to Pixelwise Refinement}, 
   year={2026},
-  volume={},
+  volume={19},
   number={},
-  pages={1-20},
+  pages={22006-22024},
   doi={10.1109/JSTARS.2026.3706337}}
-
 ``` 
